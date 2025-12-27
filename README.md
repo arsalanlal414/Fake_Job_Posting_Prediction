@@ -86,8 +86,11 @@ pip install -r requirements.txt
 - [ ] Final predictions on test set
 - [ ] Documentation and presentation
 
-## 👥 Author
+## Contributers
 Muhammad Arsalan
+Qazi Naveed Ur Rehman
+Mannan Aleem
+Prashant Lamichhane
 
 ## 📅 Timeline
 - Week 1: Data Exploration & Preprocessing
