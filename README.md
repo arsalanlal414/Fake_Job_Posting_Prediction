@@ -87,7 +87,7 @@ pip install -r requirements.txt
 - [ ] Documentation and presentation
 
 ## 👥 Author
-[Your Name]
+Muhammad Arsalan
 
 ## 📅 Timeline
 - Week 1: Data Exploration & Preprocessing
